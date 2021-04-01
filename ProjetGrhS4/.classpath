@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/io-7.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/itextpdf-5.5.13.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/javax.mail-1.5.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/jstl.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/kernel-7.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/mail.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/protobuf-java-2.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/slf4j-jdk14-1.7.25.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-fileupload-1.4-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-fileupload-1.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-fileupload-1.4-test-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-fileupload-1.4-tests.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-fileupload-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-io-2.6-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-io-2.6-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-io-2.6-test-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-io-2.6-tests.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-io-2.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-email-1.5-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-email-1.5-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-email-1.5-test-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-email-1.5-tests.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/commons-email-1.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/activation.jar"/>
+	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/javax.mail.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/khalid/Desktop/bootstrap-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/khalid/Downloads/servlet.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/khalid/Downloads/springsource/grails-2.3.8/lib/javax.servlet/javax.servlet-api/jars/javax.servlet-api-3.0.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/khalid/Downloads/springsource/grails-2.3.8/lib/javax.servlet/javax.servlet-api/jars/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/khalid/Downloads/springsource/grails-2.3.8/lib/javax.servlet/javax.servlet-api/jars/javax.servlet-api-3.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/bootstrap-2.43.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-codec-1.15-javadoc.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-codec-1.15-sources.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-codec-1.15-tests.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-codec-1.15-test-sources.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
